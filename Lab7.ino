@@ -21,7 +21,6 @@ bool buttonOn[3][4] = {
 int leds[]= {5, 7, 9, 11};
 int tempo = 0;
 int potTempo = 0;
-
 unsigned long lastStepTime = 0;
 int currentStep = 0;
 
